@@ -1,4 +1,4 @@
-# 斩月&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# 黎腾&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <!-- 
@@ -8,7 +8,6 @@
 <p>
   <em>
     <b>前端开发工程师</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"></br>
-    <b>破站药丸</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
   </em>  
 </p>
 
